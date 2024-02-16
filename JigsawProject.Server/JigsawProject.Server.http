@@ -1,0 +1,6 @@
+@JigsawProject.Server_HostAddress = http://localhost:5147
+
+GET {{JigsawProject.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

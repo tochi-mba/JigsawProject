@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JigsawProject.Server", "JigsawProject.Server\JigsawProject.Server.csproj", "{40B43090-B539-4E2A-A0A4-0ADB94158169}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "jigsawproject.client", "jigsawproject.client\jigsawproject.client.esproj", "{3478BD4F-ED8B-474D-A499-9EF3D954AD27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B43090-B539-4E2A-A0A4-0ADB94158169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B43090-B539-4E2A-A0A4-0ADB94158169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B43090-B539-4E2A-A0A4-0ADB94158169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B43090-B539-4E2A-A0A4-0ADB94158169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3478BD4F-ED8B-474D-A499-9EF3D954AD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3478BD4F-ED8B-474D-A499-9EF3D954AD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3478BD4F-ED8B-474D-A499-9EF3D954AD27}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3478BD4F-ED8B-474D-A499-9EF3D954AD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3478BD4F-ED8B-474D-A499-9EF3D954AD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3478BD4F-ED8B-474D-A499-9EF3D954AD27}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D0A1F0D-ADF5-426D-A808-D0AF9C1D90D9}
+	EndGlobalSection
+EndGlobal
