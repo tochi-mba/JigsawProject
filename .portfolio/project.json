@@ -1,0 +1,12 @@
+{
+  "$schema": "https://tochi-mba.github.io/schema/project.schema.json",
+  "slug": "jigsaw-project",
+  "name": "Graph explorer",
+  "tagline": "An early full-stack graph app: an ASP.NET Core API over a node hierarchy, drawn as an interactive diagram.",
+  "description": "A hierarchy of nodes stored with Entity Framework Core and served by an ASP.NET Core API, drawn and edited in the browser as an interactive diagram with yFiles for HTML.",
+  "stack": ["C#", "ASP.NET Core", "Entity Framework Core", "JavaScript", "yFiles"],
+  "category": "web",
+  "status": "archived",
+  "order": 710,
+  "display": true
+}
